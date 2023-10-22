@@ -1,0 +1,15 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+html , body {
+    overflow-x: hidden;
+}
+/* .navbar{
+    background-color: rgb(196, 231, 255);
+} */
+.navbar ul li a{
+    font-size: 20px;
+}
+.a {
+   text-decoration: none;
+   color: rgb(0, 0, 0);
+}
